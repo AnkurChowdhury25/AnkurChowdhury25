@@ -1,6 +1,7 @@
+(https://media.licdn.com/dms/image/C4E12AQHomW0rRba6WQ/article-cover_image-shrink_423_752/0/1592483610572?e=1694044800&v=beta&t=06zFXQlLaVAqmXRwABcTf2TcmrdMplKjw_XZErn6ZPA)
 ### Hi there 👋,  I am Ankur Chowdhury
 #### Recent graduate
-![Recent graduate](https://media.licdn.com/dms/image/C5616AQEc_7jrBkWsOg/profile-displaybackgroundimage-shrink_200_800/0/1644153227849?e=2147483647&v=beta&t=A0I4Oa65WKe97l7_6NezKZrrlCnvTynI1XlK14sKIdU)
+![Recent graduate]
 
 Hi, I recently graduated from North South University having a bachelor's degree in computer science and engineering.Throughout my academic career, I have earned proficiency in a variety of programming languages, including C, C++, Python, and Java. Furthermore, I have a solid background in digital logic design, Deep Learning, Machine Learning, and Natural Language Processing. I am energized by the prospect of using my skills and knowledge to real-world problems and contributing to worthwhile research and development projects. I am interested to investigate options where I may apply my knowledge and experience to make a significant impact in fields such as deep learning, natural language processing, and software development.
 
