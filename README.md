@@ -1,4 +1,4 @@
-![Recent graduate][(https://media.licdn.com/dms/image/C4E12AQHomW0rRba6WQ/article-cover_image-shrink_423_752/0/1592483610572?e=1694044800&v=beta&t=06zFXQlLaVAqmXRwABcTf2TcmrdMplKjw_XZErn6ZPA)](https://media.licdn.com/dms/image/D5616AQHf2hvdfzmMog/profile-displaybackgroundimage-shrink_350_1400/0/1689181150385?e=1694649600&v=beta&t=eTjVq5g1Rf89krqUB7bFwozltwbNwxumrxMN4UR0GJU)
+![Recent graduate]https://media.licdn.com/dms/image/D5616AQHf2hvdfzmMog/profile-displaybackgroundimage-shrink_350_1400/0/1689181150385?e=1694649600&v=beta&t=eTjVq5g1Rf89krqUB7bFwozltwbNwxumrxMN4UR0GJU
 ### Hi there 👋,  I am Ankur Chowdhury
 #### Computer Engineer
 
