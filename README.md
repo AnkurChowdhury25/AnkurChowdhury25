@@ -1,5 +1,5 @@
 ![Recent graduate]
-![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://media.licdn.com/dms/image/D5616AQHf2hvdfzmMog/profile-displaybackgroundimage-shrink_350_1400/0/1689181150385?e=1694649600&v=beta&t=eTjVq5g1Rf89krqUB7bFwozltwbNwxumrxMN4UR0GJU))
+!([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://media.licdn.com/dms/image/D5616AQHf2hvdfzmMog/profile-displaybackgroundimage-shrink_350_1400/0/1689181150385?e=1694649600&v=beta&t=eTjVq5g1Rf89krqUB7bFwozltwbNwxumrxMN4UR0GJU))
 ### Hi there 👋,  I am Ankur Chowdhury
 #### Computer Engineer
 
