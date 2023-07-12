@@ -1,5 +1,5 @@
 ![Recent graduate]
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 ### Hi there 👋,  I am Ankur Chowdhury
 #### Computer Engineer
 
